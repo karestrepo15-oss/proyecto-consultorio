@@ -1,6 +1,6 @@
 # Manual del servidor – Centro de Terapias Bienestar
 Proyecto integrador – Sistemas Operativos
-Autora: Katherine · Servidor: `server-kather` (Ubuntu en VirtualBox) · Acceso por SSH con usuario propio
+Autores: Katherine Restrepo Velez y Wilder Andres Rendon · Servidor: `server-kather` (Ubuntu en VirtualBox) · Acceso por SSH con usuario propio
 
 > Todos los datos de pacientes son ficticios ("Paciente 001", etc.).
 
