@@ -1,0 +1,10 @@
+== 1. psicologa lee su historia ==
+Paciente 001 - Sesion 1 - Notas de ejemplo
+== 2. fisio intenta ver psicologia ==
+ls: no se puede abrir el directorio '/srv/consultorio/historias/psicologia': Permiso denegado
+== 3. recepcion ve citas ==
+citas_2026-11-22.csv
+== 4. recepcion intenta ver historias ==
+ls: no se puede abrir el directorio '/srv/consultorio/historias': Permiso denegado
+== 5. invitado intenta entrar ==
+ls: no se puede abrir el directorio '/srv/consultorio': Permiso denegado

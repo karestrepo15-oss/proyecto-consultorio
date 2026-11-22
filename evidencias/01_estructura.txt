@@ -1,0 +1,21 @@
+/srv/consultorio:
+total 8
+drwxrws--- 2 root equipo     4096 Nov 22 17:26 citas
+drwxr-x--- 4 root terapeutas 4096 Nov 22 17:25 historias
+
+/srv/consultorio/citas:
+total 4
+-rw-r--r-- 1 recepcion equipo 109 Nov 22 17:26 citas_2026-11-22.csv
+
+/srv/consultorio/historias:
+total 8
+drwx------ 2 fisio     fisio     4096 Nov 22 17:27 fisioterapia
+drwx------ 2 psicologa psicologa 4096 Nov 22 17:26 psicologia
+
+/srv/consultorio/historias/fisioterapia:
+total 4
+-rw-r--r-- 1 fisio fisio 55 Nov 22 17:27 paciente002.txt
+
+/srv/consultorio/historias/psicologia:
+total 4
+-rw-r--r-- 1 psicologa psicologa 43 Nov 22 17:26 paciente001.txt

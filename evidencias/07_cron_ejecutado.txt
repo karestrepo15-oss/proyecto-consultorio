@@ -1,0 +1,6 @@
+total 8,0K
+-rw------- 1 root root 492 Nov 22 12:39 consultorio_2026-11-22_1239.tar.gz
+-rw------- 1 root root 492 Nov 22 12:40 consultorio_2026-11-22_1240.tar.gz
+2026-11-22 12:39:10 respaldo creado: /backups/consultorio_2026-11-22_1239.tar.gz
+2026-11-22 12:40:01 respaldo creado: /backups/consultorio_2026-11-22_1240.tar.gz
+nov 22 12:40:01 server-kather CRON[2080]: (root) CMD (/usr/local/bin/respaldo-consultorio.sh)

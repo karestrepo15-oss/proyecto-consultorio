@@ -1,0 +1,27 @@
+== Respaldo usado: /backups/consultorio_2026-11-22_1240.tar.gz
+== Archivos en original: 3
+== Archivos restaurados: 3
+== Comparacion con diff ==
+RESPALDO COMPLETO: sin diferencias
+== Permisos restaurados ==
+/tmp/restauracion/consultorio:
+total 0
+drwxrws--- 2 root equipo     60 Nov 22 12:26 citas
+drwxr-x--- 4 root terapeutas 80 Nov 22 12:25 historias
+
+/tmp/restauracion/consultorio/citas:
+total 4
+-rw-r--r-- 1 recepcion equipo 109 Nov 22 12:26 citas_2026-11-22.csv
+
+/tmp/restauracion/consultorio/historias:
+total 0
+drwx------ 2 fisio     fisio     60 Nov 22 12:27 fisioterapia
+drwx------ 2 psicologa psicologa 60 Nov 22 12:26 psicologia
+
+/tmp/restauracion/consultorio/historias/fisioterapia:
+total 4
+-rw-r--r-- 1 fisio fisio 55 Nov 22 12:27 paciente002.txt
+
+/tmp/restauracion/consultorio/historias/psicologia:
+total 4
+-rw-r--r-- 1 psicologa psicologa 43 Nov 22 12:26 paciente001.txt

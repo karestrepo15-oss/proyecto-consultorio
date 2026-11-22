@@ -1,0 +1,13 @@
+● consultorio-estado.service - Registro de estado y citas del Centro de Terapias Bienestar
+     Loaded: loaded (/etc/systemd/system/consultorio-estado.service; enabled; preset: enabled)
+     Active: active (running) since Sun 2026-11-22 12:32:36 -05; 7s ago
+ Invocation: 674120c4f11f4355ab92004bd3168f8b
+   Main PID: 1868 (consultorio-est)
+      Tasks: 2 (limit: 1891)
+     Memory: 2.2M (peak: 2.3M)
+        CPU: 160ms
+     CGroup: /system.slice/consultorio-estado.service
+             ├─1868 /bin/bash /usr/local/bin/consultorio-estado.sh
+             └─1879 sleep 60
+
+nov 22 12:32:36 server-kather systemd[1]: Started consultorio-estado.service - Registro de estado y citas del Centro de Terapias Bienestar.

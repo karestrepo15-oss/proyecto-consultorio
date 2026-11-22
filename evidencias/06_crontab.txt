@@ -1,0 +1,4 @@
+# Copia diaria al cierre del consultorio (9:00 p. m.)
+0 21 * * * /usr/local/bin/respaldo-consultorio.sh
+# Copia cada 5 minutos solo para pruebas y sustentacion
+*/5 * * * * /usr/local/bin/respaldo-consultorio.sh

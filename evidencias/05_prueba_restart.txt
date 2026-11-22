@@ -1,0 +1,4 @@
+PID antes: 1948
+Servicio matado con KILL, esperando 7 segundos...
+PID despues: 1993
+Estado: active

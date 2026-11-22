@@ -1,0 +1,3 @@
+2026-11-22 12:32:36 | encendido: up 14 minutes | disco usado: 34% | citas hoy: 2
+2026-11-22 12:33:36 | encendido: up 15 minutes | disco usado: 34% | citas hoy: 2
+2026-11-22 12:34:36 | encendido: up 16 minutes | disco usado: 34% | citas hoy: 2

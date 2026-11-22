@@ -1,0 +1,12 @@
+[Unit]
+Description=Registro de estado y citas del Centro de Terapias Bienestar
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/consultorio-estado.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

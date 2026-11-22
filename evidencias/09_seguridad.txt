@@ -1,0 +1,16 @@
+== 1. Busqueda de 777 (vacio = no hay) ==
+== 2. Miembros de sudo ==
+sudo:x:27:katherine
+== 3. sudo para empleados ==
+User psicologa is not allowed to run sudo on server-kather.
+User fisio is not allowed to run sudo on server-kather.
+User recepcion is not allowed to run sudo on server-kather.
+User invitado is not allowed to run sudo on server-kather.
+== 4. Login de root por SSH ==
+permitrootlogin no
+== 5. Cuenta root (L = bloqueada) ==
+root L 2026-08-26 0 99999 7 -1
+== 6. Actualizaciones ==
+Todos los paquetes están actualizados.
+== 7. Usuario con el que trabajo ==
+katherine
